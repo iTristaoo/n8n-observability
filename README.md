@@ -5,6 +5,7 @@
 [![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)](https://n8n.io)
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?logo=clickup&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)
+![Status](https://img.shields.io/badge/status-produção-success)
 
 > 🔒 **Case anonimizado.** Sem nome de cliente, credenciais ou dados reais.
 
@@ -61,10 +62,11 @@ flowchart TD
 
 ## 📈 Resultados
 
-> Exemplos do que medir:
-> - ⏱️ Tempo de detecção de falha: de _[horas, via reclamação]_ → _[minutos, automático]_
-> - 🛟 % de incidentes resolvidos antes do cliente perceber
-> - 📋 Histórico de incidentes rastreável
+- ⏱️ **Falha detectada na hora** — não depende do cliente reclamar que o WhatsApp parou.
+- 🛟 Muitos incidentes resolvidos **antes do cliente perceber**.
+- 📋 Histórico de incidentes rastreável (vira task, não some num chat).
+
+<!-- iTristaoo: se tiver número real, some aqui (ex: "detecção de horas → minutos"). Não invente. -->
 
 ---
 
@@ -72,3 +74,11 @@ flowchart TD
 
 - [ai-receptionist-clinics](https://github.com/iTristaoo/ai-receptionist-clinics) — um dos fluxos monitorados
 - [ai-followup-automation](https://github.com/iTristaoo/ai-followup-automation) — também coberto pelo error handler
+
+---
+
+## 📲 Quer um agente desses no seu negócio?
+
+**Construo automações e agentes de IA sob medida.** Bora conversar — me chama.
+
+<!-- iTristaoo: troque pelos seus links reais → ex: [WhatsApp](https://wa.me/55SEUNUMERO) · [Email](mailto:seu@email.com) -->
